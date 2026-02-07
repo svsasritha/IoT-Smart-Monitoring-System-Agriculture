@@ -82,12 +82,12 @@ The detailed block diagram and system flow diagram are included in the attached 
 
 ## Files in This Repository
 
-- [Cerevyn Solutions Submission PDF](Cerevyn%20solutions.pdf)– Detailed solution document containing system architecture, block diagram, data flow, and explanation.
+- [Cerevyn Solutions Submission PDF](Cerevyn%20solutions.docx)– Detailed solution document containing system architecture, block diagram, data flow, and explanation.
 
 ---
 
 ## Author
 
-Vyshnavi Sri Asritha Sighakolli.
+Vyshnavi Sri Asritha Sighakolli,
 B.Tech Electrical and Electronics Engineering  
 Interested in IoT, Embedded Systems, and Smart Agriculture
