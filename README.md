@@ -82,7 +82,7 @@ The detailed block diagram and system flow diagram are included in the attached 
 
 ## Files in This Repository
 
-- [Cerevyn Solutions Submission PDF](Cerevyn%20solutions.docx)– Detailed solution document containing system architecture, block diagram, data flow, and explanation.
+- [IoT Smart Monitoring System Submission PDF](Cerevyn%20solutions.docx)– Detailed solution document containing system architecture, block diagram, data flow, and explanation.
 
 ---
 
