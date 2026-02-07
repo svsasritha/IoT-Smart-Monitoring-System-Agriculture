@@ -59,11 +59,11 @@ Alerts can be sent via SMS, email, or mobile notification in a real-world implem
   "humidity": 72,
   "timestamp": "2026-02-07 10:30:00"
 }
-```json
+```
 
 ---
 
-## **System Architecture**
+## System Architecture
 
 The system architecture consists of sensor nodes deployed in the agricultural field, an ESP32 microcontroller acting as the gateway, and a cloud platform for data storage and visualization. The system performs data acquisition from sensors, edge-level processing, cloud communication, and alert generation.  
 The detailed block diagram and system flow diagram are included in the attached PDF document.
